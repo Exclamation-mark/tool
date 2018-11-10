@@ -1,5 +1,4 @@
-# 安卓开发常用控件打包集合
-
+# Android开发常用控件打包集合
 ## 1.圆角图片
 ### 实现方法 ：继承自ImageView。添加边距相应的标签
 ### 使用方法 ：就像使用ImageView一样去使用它
@@ -31,3 +30,7 @@ setImageURI|Uri
 ![效果图](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)
 ### 感谢：这是学习的第一个控件的开发，不是原创，完全来自于：
 [点击查看来源](https://github.com/hdodenhof/CircleImageView)
+## 2.初步仿QQ录音效果
+### 效果图
+<iframe  src="https://raw.githubusercontent.com/Exclamation-mark/tool/master/%E6%95%88%E6%9E%9C/demo.gif">
+
