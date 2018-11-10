@@ -32,6 +32,7 @@ setImageURI|Uri
 [点击查看来源](https://github.com/hdodenhof/CircleImageView)
 ## 2.初步仿QQ录音效果
 ### 效果图
-![conv_ops](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif)
-
+![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif)
+![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo.gif)
+### 特点
 
