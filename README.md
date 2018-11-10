@@ -1,6 +1,7 @@
 # Android开发常用控件打包集合
 ## 1.聊天界面中的聊天信息子页面（ChatItemView）
-### 效果图
+### demo效果图
+
 ![样品图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo1.gif)
 ### 特点：
 ###### 1.要根据信息是发送方还是接收方来判断显示在左边还是右边
@@ -228,8 +229,10 @@ OnPictureLongClickedListener|View view|图片长按事件监听
 
 ## 2.初步仿QQ录音效果（QRecordAudioView）
 ### 效果图
-![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qq.gif)
-![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo0.gif)
+qq效果图
+![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif)
+demo效果图
+![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo.gif)
 ### 特点：
 ###### 1.点击中间按钮，按钮的半径会突然变小再变大
 ###### 2.焦点向左或者向右移动时，左边的按钮的大小就会变化，有最值且能变回原来大小。
@@ -281,8 +284,10 @@ OnPlayRecordSeleted| int 当在播放按钮松手时应该采取的操作
 OnRecordFinish|当录制声音完成时要采取的操作
 ## 3.初步仿相册发送图片时的页面显示（QPhotoView）
 ### QPhotoView效果图
-![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif)
-![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo.gif)
+qq效果图
+![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qq.gif)
+demo效果图
+![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo0.gif)
 ### 特点：
 ###### 1.按照时间顺序显示图片，且图片是等高，按比例伸缩图片
 ###### 2.选中多图时有计数功能，而且选中的图可以自动取消选中，其它图改变次序。
