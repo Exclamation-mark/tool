@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\touming.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_da.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_da.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_3x.png",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_play_3x.png"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_xiao.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_xiao.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_bk.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\photo_bk.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_3x.png",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_delete_3x.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\wait.png",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_3x.png",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_delete_3x.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_bk.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\photo_bk.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_voice_3x.png",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_voice_3x.png"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_xiao.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_xiao.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_da.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_da.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\wait.png",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\send_photo_btn.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\send_photo_btn.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\wait.png",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_xiao.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_xiao.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\touming.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\gray.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\gray.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_3x.png",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_play_3x.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_3x.png",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_play_3x.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\touming.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\gray.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\gray.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_bk.xml",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\photo_bk.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\send_photo_btn.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\send_photo_btn.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_voice_3x.png",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_voice_3x.png"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete_3x.png",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_delete_3x.png"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\send_photo_btn.xml",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\send_photo_btn.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\c53359772e702f860ae3136155066881bb108107\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_voice_3x.png",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\btn_voice_3x.png"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\f476d4985c491f163fa38e1975b8eee1fc7cd054\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\yin_liang_view_da.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\yin_liang_view_da.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\gray.xml",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\drawable\\gray.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\e49d87f237bbbc7deb299b49cfc634867b75d550\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\赵自强\\.android\\build-cache\\0cb8a95ec4f81140abc0614e9676f66c0f82838c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\hd\\.android\\build-cache\\40b84fd33550a2ac3c56e95fc34e0f5097267b2a\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\z\\.android\\build-cache\\0338b745e04637ee2b2e6fd2102c5e8aabf412d2\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    }
+]

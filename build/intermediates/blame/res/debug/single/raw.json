@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\raw\\a.wav",
+        "source": "H:\\doucument\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\raw\\a.wav"
+    },
+    {
+        "merged": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\raw\\a.wav",
+        "source": "D:\\androidProject\\z\\KongTangZhuanJia\\zzq\\src\\main\\res\\raw\\a.wav"
+    },
+    {
+        "merged": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\build\\intermediates\\res\\merged\\debug\\raw\\a.wav",
+        "source": "F:\\zProjectFromGit\\KongTangZhuanJia\\zzq\\src\\main\\res\\raw\\a.wav"
+    }
+]

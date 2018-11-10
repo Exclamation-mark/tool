@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BezierView"><attr format="color" name="paint_color"/><attr format="dimension" name="paint_width"/><attr format="fraction" name="height_proportion"/></declare-styleable>
+    <declare-styleable name="BubbleImageView"><attr format="dimension|reference" name="bubble_arrowTop"/><attr format="dimension|reference" name="bubble_arrowWidth"/><attr format="dimension|reference" name="bubble_arrowHeight"/><attr format="dimension|reference" name="bubble_arrowOffset"/><attr format="dimension|reference" name="bubble_angle"/><attr format="enum" name="bubble_arrowLocation">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="BubbleView"><attr format="dimension" name="arrowWidth"/><attr format="dimension" name="angle"/><attr format="dimension" name="arrowHeight"/><attr format="dimension" name="arrowPosition"/><attr format="color" name="bubbleColor"/><attr format="boolean" name="arrowCenter"/><attr format="enum" name="arrowLocation">
+            <enum name="left" value="0x00"/>
+            <enum name="right" value="0x01"/>
+            <enum name="top" value="0x02"/>
+            <enum name="bottom" value="0x03"/>
+        </attr></declare-styleable>
+    <declare-styleable name="ChatItemView"><attr name="show_nickname">
+            <enum name="noShowEvery" value="0"/>
+            <enum name="showLeft" value="1"/>
+            <enum name="showRight" value="2"/>
+            <enum name="showEvery" value="3"/>
+        </attr><attr format="dimension" name="LeftPhotoSize"/><attr format="dimension" name="RightPhotoSize"/><attr format="dimension" name="DefaultLeftChatTextSize"/><attr format="dimension" name="DefaultRightChatTextSize"/><attr format="dimension" name="DefaultNicknameTextSizeLeft"/><attr format="dimension" name="DefaultNicknameTextSizeRight"/><attr format="color" name="DefaultBackgroundRight"/><attr format="color" name="DefaultBackgroundLeft"/><attr format="color" name="DefaultNicknameTextColorLeft"/><attr format="color" name="DefaultNicknameTextColorRight"/><attr format="color" name="DefaultChatTextColorLeft"/><attr format="color" name="DefaultChatTextColorRight"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
+    <declare-styleable name="QPhotoView"><attr format="boolean" name="showCrop"/><attr format="reference" name="sendBtnBackground"/><attr format="color" name="albumTextColor"/><attr format="color" name="cropEnabledTextColor"/><attr format="color" name="cropNoUnEnableTextColor"/><attr format="color" name="sendEnabledTextColor"/><attr format="color" name="sendNoUnEnableTextColor"/><attr format="integer" name="maxSeleteCount"/></declare-styleable>
+    <string name="app_name">My Library</string>
+</resources>

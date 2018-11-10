@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res"/><source path="D:\androidProject\z\KongTangZhuanJia\zzq\build\generated\res\rs\release"/><source path="D:\androidProject\z\KongTangZhuanJia\zzq\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\androidProject\z\KongTangZhuanJia\zzq\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res"><file name="btn_delete_3x" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\btn_delete_3x.png" qualifiers="" type="drawable"/><file name="btn_play_3x" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\btn_play_3x.png" qualifiers="" type="drawable"/><file name="btn_voice_3x" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\btn_voice_3x.png" qualifiers="" type="drawable"/><file name="gray" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\gray.xml" qualifiers="" type="drawable"/><file name="photo_bk" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\photo_bk.xml" qualifiers="" type="drawable"/><file name="send_photo_btn" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\send_photo_btn.xml" qualifiers="" type="drawable"/><file name="touming" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\touming.xml" qualifiers="" type="drawable"/><file name="wait" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\wait.png" qualifiers="" type="drawable"/><file name="yin_liang_view_da" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\yin_liang_view_da.xml" qualifiers="" type="drawable"/><file name="yin_liang_view_xiao" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\drawable\yin_liang_view_xiao.xml" qualifiers="" type="drawable"/><file name="chat_item_view" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\layout\chat_item_view.xml" qualifiers="" type="layout"/><file name="photo_list_item" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\layout\photo_list_item.xml" qualifiers="" type="layout"/><file name="photo_list_view" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\layout\photo_list_view.xml" qualifiers="" type="layout"/><file name="q_record_audio_view" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\layout\q_record_audio_view.xml" qualifiers="" type="layout"/><file name="record_time_view" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\layout\record_time_view.xml" qualifiers="" type="layout"/><file name="audio_animation_list_right_1" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\audio_animation_list_right_1.png" qualifiers="hdpi-v4" type="mipmap"/><file name="audio_animation_list_right_2" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\audio_animation_list_right_2.png" qualifiers="hdpi-v4" type="mipmap"/><file name="audio_animation_list_right_3" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\audio_animation_list_right_3.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ease_chatfrom_voice_playing_f1" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\ease_chatfrom_voice_playing_f1.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ease_chatfrom_voice_playing_f2" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\ease_chatfrom_voice_playing_f2.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ease_chatfrom_voice_playing_f3" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\ease_chatfrom_voice_playing_f3.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="a" path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\raw\a.wav" qualifiers="" type="raw"/><file path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\values\attars.xml" qualifiers=""><declare-styleable name="BezierView">
+        <attr format="color" name="paint_color"/>
+        <attr format="dimension" name="paint_width"/>
+        <attr format="fraction" name="height_proportion"/>
+    </declare-styleable><declare-styleable name="QPhotoView">
+        <attr format="boolean" name="showCrop"/>
+        <attr format="reference" name="sendBtnBackground"/>
+        <attr format="color" name="albumTextColor"/>
+        <attr format="color" name="cropEnabledTextColor"/>
+        <attr format="color" name="cropNoUnEnableTextColor"/>
+        <attr format="color" name="sendEnabledTextColor"/>
+        <attr format="color" name="sendNoUnEnableTextColor"/>
+        <attr format="integer" name="maxSeleteCount"/>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="civ_border_width"/>
+        <attr format="color" name="civ_border_color"/>
+        <attr format="boolean" name="civ_border_overlay"/>
+        <attr format="color" name="civ_fill_color"/>
+    </declare-styleable><declare-styleable name="BubbleView">
+        <attr format="dimension" name="arrowWidth"/>
+        <attr format="dimension" name="angle"/>
+        <attr format="dimension" name="arrowHeight"/>
+        <attr format="dimension" name="arrowPosition"/>
+        <attr format="color" name="bubbleColor"/>
+        <attr format="boolean" name="arrowCenter"/>
+        <attr format="enum" name="arrowLocation">
+            <enum name="left" value="0x00"/>
+            <enum name="right" value="0x01"/>
+            <enum name="top" value="0x02"/>
+            <enum name="bottom" value="0x03"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ChatItemView">
+        <attr name="show_nickname">
+            <enum name="noShowEvery" value="0"/>
+            <enum name="showLeft" value="1"/>
+            <enum name="showRight" value="2"/>
+            <enum name="showEvery" value="3"/>
+        </attr>
+        <attr format="dimension" name="LeftPhotoSize"/>
+        <attr format="dimension" name="RightPhotoSize"/>
+        <attr format="dimension" name="DefaultLeftChatTextSize"/>
+        <attr format="dimension" name="DefaultRightChatTextSize"/>
+        <attr format="dimension" name="DefaultNicknameTextSizeLeft"/>
+        <attr format="dimension" name="DefaultNicknameTextSizeRight"/>
+        <attr format="color" name="DefaultBackgroundRight"/>
+        <attr format="color" name="DefaultBackgroundLeft"/>
+        <attr format="color" name="DefaultNicknameTextColorLeft"/>
+        <attr format="color" name="DefaultNicknameTextColorRight"/>
+        <attr format="color" name="DefaultChatTextColorLeft"/>
+        <attr format="color" name="DefaultChatTextColorRight"/>
+    </declare-styleable><declare-styleable name="BubbleImageView">
+        <attr format="dimension|reference" name="bubble_arrowTop"/>
+        <attr format="dimension|reference" name="bubble_arrowWidth"/>
+        <attr format="dimension|reference" name="bubble_arrowHeight"/>
+        <attr format="dimension|reference" name="bubble_arrowOffset"/>
+        <attr format="dimension|reference" name="bubble_angle"/>
+        <attr format="enum" name="bubble_arrowLocation">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="D:\androidProject\z\KongTangZhuanJia\zzq\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">My Library</string></file></source><source path="D:\androidProject\z\KongTangZhuanJia\zzq\build\generated\res\rs\release"/><source path="D:\androidProject\z\KongTangZhuanJia\zzq\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\androidProject\z\KongTangZhuanJia\zzq\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable><declare-styleable name="BezierView"><attr format="color" name="paint_color"/><attr format="dimension" name="paint_width"/><attr format="fraction" name="height_proportion"/></declare-styleable><declare-styleable name="QPhotoView"><attr format="boolean" name="showCrop"/><attr format="reference" name="sendBtnBackground"/><attr format="color" name="albumTextColor"/><attr format="color" name="cropEnabledTextColor"/><attr format="color" name="cropNoUnEnableTextColor"/><attr format="color" name="sendEnabledTextColor"/><attr format="color" name="sendNoUnEnableTextColor"/><attr format="integer" name="maxSeleteCount"/></declare-styleable><declare-styleable name="ChatItemView"><attr name="show_nickname">
+            <enum name="noShowEvery" value="0"/>
+            <enum name="showLeft" value="1"/>
+            <enum name="showRight" value="2"/>
+            <enum name="showEvery" value="3"/>
+        </attr><attr format="dimension" name="LeftPhotoSize"/><attr format="dimension" name="RightPhotoSize"/><attr format="dimension" name="DefaultLeftChatTextSize"/><attr format="dimension" name="DefaultRightChatTextSize"/><attr format="dimension" name="DefaultNicknameTextSizeLeft"/><attr format="dimension" name="DefaultNicknameTextSizeRight"/><attr format="color" name="DefaultBackgroundRight"/><attr format="color" name="DefaultBackgroundLeft"/><attr format="color" name="DefaultNicknameTextColorLeft"/><attr format="color" name="DefaultNicknameTextColorRight"/><attr format="color" name="DefaultChatTextColorLeft"/><attr format="color" name="DefaultChatTextColorRight"/></declare-styleable><declare-styleable name="BubbleImageView"><attr format="dimension|reference" name="bubble_arrowTop"/><attr format="dimension|reference" name="bubble_arrowWidth"/><attr format="dimension|reference" name="bubble_arrowHeight"/><attr format="dimension|reference" name="bubble_arrowOffset"/><attr format="dimension|reference" name="bubble_angle"/><attr format="enum" name="bubble_arrowLocation">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr></declare-styleable><declare-styleable name="BubbleView"><attr format="dimension" name="arrowWidth"/><attr format="dimension" name="angle"/><attr format="dimension" name="arrowHeight"/><attr format="dimension" name="arrowPosition"/><attr format="color" name="bubbleColor"/><attr format="boolean" name="arrowCenter"/><attr format="enum" name="arrowLocation">
+            <enum name="left" value="0x00"/>
+            <enum name="right" value="0x01"/>
+            <enum name="top" value="0x02"/>
+            <enum name="bottom" value="0x03"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>
