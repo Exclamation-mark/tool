@@ -32,5 +32,5 @@ setImageURI|Uri
 [点击查看来源](https://github.com/hdodenhof/CircleImageView)
 ## 2.初步仿QQ录音效果
 ### 效果图
-<iframe  src="https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif">
+<iframe  src="https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif"/>
 
