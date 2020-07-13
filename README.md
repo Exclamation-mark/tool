@@ -1,6 +1,6 @@
 # Android自己在开发常用控件打包集合
 
-## 1.聊天界面中的聊天信息子页面（ChatItemView）
+## 1.聊天界面中的聊天信息子页面(ChatItemView)
 ### demo效果图
 
 ![样品图](http://qdevkc4cn.bkt.clouddn.com/demo1.gif)
