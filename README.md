@@ -15,7 +15,6 @@
 ### ChatItemView使用方法：
 首先
 ```
-@BindView(R.id.selectPictureView)QPhotoView selectPictureView;
 private ChatListAdapter adapter;
 private List<ChatDataItemBean> list;
 ```
