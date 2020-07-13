@@ -1,11 +1,9 @@
 # Android自己在开发常用控件打包集合
-### 今天在面试时候面试官问自己做过什么小东西，我之前没有意识到这些会给面试作为一个加分项，面试完了回来又把之前做过的项目扒拉出来，做一下总结，温故而知新。也学到了很多东西。
-### 去年在写这些东西的时候，是因为有很多东西，比如聊天界面，这些东西在外包里边用了一次又一次，每次都得重新写很烦，我就在想能不能把这种经常用的东西都集成一下，放在库里，下次用直接拖出来，我立刻就把我的想法付诸实施了，天天用业余时间，每晚上干到12点，做了一个多星期吧，搞了这么多东西，自己学到很多东西，自己想要的效果也都实现了，这种感觉是开心的，后来因为开学就暂时放下了，现在看来这些东西技术含量并不高，安卓开发者做几个月应该都能做到，但我还是为我当时的勇气而感动。最后，希望自己找个好工作。
 
 ## 1.聊天界面中的聊天信息子页面（ChatItemView）
 ### demo效果图
 
-![样品图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo1.gif)
+![样品图](http://qdevkc4cn.bkt.clouddn.com/demo1.gif)
 ### 特点：
 ###### 1.要根据信息是发送方还是接收方来判断显示在左边还是右边
 ###### 2.要根据信息的种类来判断是文字还是图片还是语音。
@@ -233,9 +231,9 @@ OnPictureLongClickedListener|View view|图片长按事件监听
 ## 2.初步仿QQ录音效果（QRecordAudioView）
 ### 效果图
 qq效果图
-![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qqanniu.gif)
+![qq效果图](http://qdevkc4cn.bkt.clouddn.com/qqanniu.gif)
 demo效果图
-![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo.gif)
+![demo](http://qdevkc4cn.bkt.clouddn.com/demo.gif)
 ### 特点：
 ###### 1.点击中间按钮，按钮的半径会突然变小再变大
 ###### 2.焦点向左或者向右移动时，左边的按钮的大小就会变化，有最值且能变回原来大小。
@@ -288,9 +286,9 @@ OnRecordFinish|当录制声音完成时要采取的操作
 ## 3.初步仿相册发送图片时的页面显示（QPhotoView）
 ### QPhotoView效果图
 qq效果图
-![qq效果图](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/qq.gif)
+![qq效果图](http://qdevkc4cn.bkt.clouddn.com/qq.gif)
 demo效果图
-![demo](https://raw.githubusercontent.com/Exclamation-mark/tool/master/appearance/demo0.gif)
+![demo](http://qdevkc4cn.bkt.clouddn.com/demo0.gif)
 ### 特点：
 ###### 1.按照时间顺序显示图片，且图片是等高，按比例伸缩图片
 ###### 2.选中多图时有计数功能，而且选中的图可以自动取消选中，其它图改变次序。
