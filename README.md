@@ -17,9 +17,9 @@
 ```java
 private ChatListAdapter adapter;
 private List<ChatDataItemBean> list;
-```java
-声明一些测试数据，先声明一些图片的地址
 ```
+声明一些测试数据，先声明一些图片的地址
+```java
 private String[] a = {"http://···/1502950842800.png", "http://···/1503109435882.png", "https://···f55a03b312c8fcc3ce2d55.jpg", "https://···12c8fcc3ce2d55.jpg",
             "https://···2db00baa1cd112af1.jpg", "https://···f3f50e1f81a4c500fa2d5.jpg",
             "https://···76740202&fm=26&gp=0.jpg", "https://···3&fm=200&gp=0.jpg",
@@ -32,12 +32,12 @@ private String[] b = {"你好?", "吃了吗", "你能收到吗", "你怎么了",
 
 ```
 再声明一些名字
-```
+```java
 private String[] d = {"张飞", "赵云", "李四", "诸葛亮", "刘备", "亚瑟", "蓝令我", "天的撒娇啊是的", "我家兴", "赵自强", "和恶化", "你猜", "没有id", "指尖的温柔", "咖啡猫", "青苔你住"};
 
 ```
 最后声明一个List，存1-120个数字，120个数字随机取 算作语音时长。
-```
+```java
     private String[] c= new String[120];
     for (int o = 0; o < 120; o++) {
           c[o] = "" + o;
@@ -45,14 +45,14 @@ private String[] d = {"张飞", "赵云", "李四", "诸葛亮", "刘备", "亚�
 
 ```
 然后，随机生成一个List.
-```
+```java
         Random r = new Random();
         for (int o = 0; o < 100; o++) {
             list.add(new ChatDataItemBean(e[r.nextInt(e.length)], a[1], a[r.nextInt(a.length)], a[r.nextInt(a.length)], b[r.nextInt(b.length)], c[r.nextInt(c.length)], d[r.nextInt(d.length)]));
         }
 ```
 其中这里边主要调用了ChatDataItemBean的构造方法:
-```
+```java
     public ChatDataItemBean(ChatType chatType, String myPhoto, String hisPhoto, String picturePath, String text, String durtation,String name) {
             this.hisname = name;
             this.chatType = chatType;
@@ -64,7 +64,7 @@ private String[] d = {"张飞", "赵云", "李四", "诸葛亮", "刘备", "亚�
         }
 ```
 其中ChatType是个枚举类，分别代表六种信息类型，构造如下：
-```
+```java
 public enum ChatType {
     textLeft ,//消息类型为左边文字
     textRight,//消息类型为右边文字
@@ -75,7 +75,7 @@ public enum ChatType {
 }
 ```
 最后用这些：
-```
+```java
         LinearLayoutManager layoutManager = new LinearLayoutManager(context);
         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         recyclerView.setLayoutManager(layoutManager);
@@ -84,7 +84,7 @@ public enum ChatType {
         recyclerView.setAdapter(adapter = new ChatListAdapter(list, context, R.layout.chat_item_layout));
 ```
 下面是适配器的代码：
-```
+```java
 package com.xiaocool.sugarangel.adapter;
 import android.content.Context;
 import android.content.Intent;
@@ -244,7 +244,7 @@ demo效果图
 ###### 3.还是有点丑。
 ### QRecordAudioView使用方法
 ###### 首先定义一个控件：
-```
+```xml
    <com.example.mylibrary.RecordAudioView.QRecordAudioView
         android:visibility="gone"
         android:id="@+id/recordVoiceView"
@@ -252,7 +252,7 @@ demo效果图
         android:layout_height="match_parent" />
 ```
 所有的动画效果都由控件自己完成，只需要在控制器中设置监听器就ok。
-```
+```java
 recordVoiceView.setRecordInterfaceListener(new RecordInterfaceListener() {
             @Override
             public void OnStartRecord(View ClickView) {
@@ -300,7 +300,7 @@ demo效果图
 ###### 3.没测过性能怎么样
 ### QPhotoView使用方法
 直接在页面布局中使用下面的代码：
-```
+```xml
     <com.example.mylibrary.photoListView.QPhotoView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -309,7 +309,7 @@ demo效果图
         android:id="@+id/selectPictureView"/>
 ```
 然后是添加监听事件响应Click就可以了：
-```
+```java
 selectPictureView.setQPhotoListener(new QPhotoListener() {
             @Override
             public void onAlbumClicked() {
